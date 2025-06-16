@@ -1,4 +1,3 @@
-
 import { GlassButton } from './GlassButton';
 import { Mail, Github, Linkedin } from 'lucide-react';
 
@@ -89,7 +88,7 @@ export const HeroSection = ({ scrollY }: HeroSectionProps) => {
             >
               {/* Clear image container with no background overlays */}
               <img
-                src="/lovable-uploads/fd193ad8-f58e-4792-bcb2-84df37c4edcc.png"
+                src="/placeholder.svg"
                 alt="Mohamed Adhnaan J M"
                 className="w-full h-full object-cover opacity-90" // Added opacity
                 style={{
