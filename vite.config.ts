@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/BYTEGUARDIAN-PORTFOLIO-main/',
+  base: '/my-portfolio/',
   server: {
     host: "::",
     port: 8080,
